@@ -37,6 +37,10 @@ button {
   background-color: orange;
 }
 
+li {
+  margin: 5px 0px;
+}
+
 #alert {
   color: black;
 }
@@ -51,4 +55,14 @@ button {
 
 .red {
   color: tomato;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.delete {
+  background: red;
+  font-size: 10px;
+  margin-left: 15px;
 }
