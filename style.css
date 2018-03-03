@@ -1,0 +1,54 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: fantasy, "sans-serif";
+  font-size: 4em;
+  color: #333676;
+  letter-spacing: 1px;
+
+}
+
+button:hover {
+  font-family: fantasy;
+  font-size: 1.1em;
+}
+
+.bigFantasy {
+  font-family: fantasy;
+  font-size: 3.5em;
+}
+
+input, button, ul {
+  font-size: 1.2em;
+}
+
+input {
+  margin-right: 10px;
+}
+
+button {
+  background-color: orange;
+}
+
+#alert {
+  color: black;
+}
+
+.green {
+  background: green;
+}
+
+.reds {
+  background: red;
+}
+
+.red {
+  color: tomato;
+}
